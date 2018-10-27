@@ -162,6 +162,9 @@
     </ClCompile>
     <ClCompile Include="prtest.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="priestupky.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
